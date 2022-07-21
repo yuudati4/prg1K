@@ -1,0 +1,16 @@
+//
+//  01_issue1_k22126.c
+//  prg1
+//
+//  Created by k22126kk on 2022/04/14.
+//
+
+#include <stdio.h>
+
+int main(int argc, const char * argv[]){
+    printf(" $ $ \n");
+    printf("$ $ $\n");
+    printf("$   $\n");
+    printf(" $ $ \n");
+    printf("  $  \n");
+}
