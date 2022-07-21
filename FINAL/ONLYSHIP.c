@@ -18,6 +18,9 @@ typedef struct {
   int x, y;
 } PLAYER;
 
+
+
+
 int screen[SCREEN_HEIGHT][SCREEN_WIDTH];
 PLAYER player;
 
